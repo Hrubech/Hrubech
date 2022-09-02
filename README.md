@@ -1,7 +1,24 @@
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hrubech&label=Profile%20views&color=0e75b6&style=flat" alt="hrubech" /> </p>
 <h1 align="center">Bonjour, je suis Hrubech HOMBESSA</h1>
 <h3 align="center">Full Stack Developper || DevOps Engineer || Cloud Analyst</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hrubech&label=Profile%20views&color=0e75b6&style=flat" alt="hrubech" /> </p>
+<div align="center">
+  <table>
+        <tr>
+            <td width="50%">
+                <p align="center">
+                    <a href="https://codeoz-blog.com/" target="_blank" rel="noreferrer"> <img src="./static/oz-blog.gif" alt="codeoz blog"/> </a>
+                </p>
+            </td>
+            <td width="50%">
+                <p align="center">
+                    <a href="https://chillflix-radio.com/" target="_blank" rel="noreferrer"> <img src="./static/chillflix.gif" alt="chillflix"/> </a>
+                </p>
+            </td>
+        </tr>
+    </table>
+</div>
 
 - 📫 Pour me contacter **hrubechhombessa@gmail.com**
 
