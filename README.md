@@ -33,8 +33,8 @@
 
 <h3 align="left">Technologies :</h3>
 <p align="left"> 
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/452092/react.svg" alt="react" width="40" height="40"/> 
+  <a href="https://python.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
   <a href="https://aws.amazon.com/fr/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/> 
